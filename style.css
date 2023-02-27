@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: #f2e6e6;
+    box-shadow: 0rem 1rem 1rem 1rem rgba(0, 0, 0, 0.5);
+    
+}
+h3{
+    text-align: center;
+    color: #f4ebeb;
+}
+body{
+    background: #000;
+}
+#number{
+width: 100%;
+color: #000;
+font-size: 2rem;
+text-align: center;
+padding: 1rem;
+
+}
+.container{
+    padding: 5rem;
+    display: grid;
+    height: auto;
+    grid-template-rows: 2fr 2fr;
+    box-shadow: 0rem 1rem 1rem 1rem rgba(210, 204, 204, 0.5);
+}
+#submit{
+ font-size: 2rem;
+ padding: 1rem;
+background: orange;
+    border: gray;
+    border-radius: 1rem;
+    margin-top: 3rem;
+    box-shadow:  1rem 1rem 1rem rgba(0,0,0,0.5);
+}
